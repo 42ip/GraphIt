@@ -1,5 +1,5 @@
 # GraphIt
-GraphIt is a web application built using [Dash](https://plotly.com/dash/), a python library that compliments Plotly by providing interactive components within a Flask framework. 
+[GraphIt](https://graphit-42ip.herokuapp.com/) is a web application built using [Dash](https://plotly.com/dash/), a python library that compliments Plotly by providing interactive components within a Flask framework. 
 GraphIt for now implements a method to generate random 3d points in two variants, a Scatter or Mesh Plot.
 This web app has been create to add more functions or possible uses rather than just keeping it as a random point generator.
 
@@ -13,3 +13,5 @@ This web app has been create to add more functions or possible uses rather than 
 
 
 ### Screenshot
+
+<img src="https://github.com/TheNova22/GraphIt/blob/main/SS-GraphIt.png" height="250">
